@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Partial Physics Informed Diffusion Model for Ocean Chlorophyll Reconstruction"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-ppidm-neurips
+excerpt: "PPIDM reconstructs real-world ocean chlorophyll from sparse, uncertain data by integrating differentiable physics priors into diffusion models, improving robustness and reducing RMSE over data-only baselines."
+date: 2025-06-08
+venue: 'NeurIPS 2025 (Poster)'
+paperurl: '/files/paper1.pdf'
+citation: 'Xu, Q.; Li, Z. C. (2025). Partial Physics Informed Diffusion Model for Ocean Chlorophyll Reconstruction. In NeurIPS 2025 (Poster).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Key results: 34% lower RMSE vs data-only diffusion; improved stability; better long-range infilling under state uncertainty.

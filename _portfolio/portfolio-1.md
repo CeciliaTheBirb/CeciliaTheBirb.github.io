@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Temporal-Aware Multi-Event Video Generation and Editing"
+excerpt: "Westlake University AIGC Summer Research: temporal-aware video edits, subject-masked LoRA personalization, and large-to-small object replacement."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Timeline: May 2025 – Present, Westlake University (Supervisor: Prof. Chi Zhang)
+- Focus:
+  - Temporal-aware, training-free multi-event video generation with time-agnostic cross-attention controls to reduce identity drift and event boundary flicker.
+  - Region-constrained 2D personalization with subject-mask guided LoRA fine-tuning to prevent background leakage and concept blending.
+  - Large-to-small object replacement video editing with late-step schedule and smoothed editing trajectories.
+- Links: [GitHub](https://github.com/CeciliaTheBirb) 

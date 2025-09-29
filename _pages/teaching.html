@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign items = site.teaching | sort: 'weight' %}
+{% for post in items %}
   {% include archive-single.html %}
 {% endfor %}
