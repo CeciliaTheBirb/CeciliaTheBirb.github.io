@@ -11,7 +11,7 @@ I'm an Applied Math and Computer Science major student at Duke Kunshan Universit
 
 Research Interests
 ======
-My research focuses on generative modeling and computer vision. I previously worked on physics-informed diffusion models for environmental science, collaborative perception for autonomous driving, and video generation with temporal-aware controls. See more on my [Research](/portfolio/) page.
+I love exploring various fields, with previous research experience in physics-informed diffusion models for environmental science, collaborative perception for autonomous driving, and controllable image/video generation and editing. My passion lies in generative modeling and computer vision. See more on my [Research](/portfolio/) page.
 
 Hobbies
 ======
