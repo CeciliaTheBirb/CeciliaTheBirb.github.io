@@ -1,6 +1,8 @@
 ---
-title: "Region-Constrained LoRA Personalization Prototype"
-excerpt: "Subject-mask guided LoRA fine-tuning for localized video editing that avoids background leakage and concept blending."
+title: "Region-Constrained LoRA Personalization"
+excerpt: |
+  <p>Subject-mask guided LoRA fine-tuning for personalized image generation that avoids background leakage and concept blending.</p>
+  <p><img src='/images/attn_toys.png' alt='Temporal-aware attention demo' style='width:80%;height:auto;'></p>
 collection: portfolio
 ---
 
@@ -9,4 +11,4 @@ collection: portfolio
 - Method: Subject-mask guidance during LoRA updates; schedule smoothing for stable edits.
 
 - Outcomes: Stronger subject fidelity and reduced leakage into non-target regions.
-- Links: [GitHub](https://github.com/CeciliaTheBirb)
+- Links: [GitHub](https://github.com/CeciliaTheBirb/attention_toys)
