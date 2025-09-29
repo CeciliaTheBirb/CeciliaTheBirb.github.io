@@ -1,5 +1,5 @@
 ---
-title: "Temporal-Aware Training-Free Multi-Event Video Generation and Editing"
+title: "Temporal-Aware Training-Free Multi-Event Video Generation"
 excerpt: |
   <p>In progress. </p>
   <table style="width:100%; table-layout:fixed; border-spacing:12px;">
