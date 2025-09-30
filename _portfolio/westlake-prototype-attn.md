@@ -16,9 +16,8 @@ excerpt: |
 collection: portfolio
 ---
 
-- Context: Westlake University AIGC Summer Research (Supervisor: Prof. Chi Zhang)
+- Westlake University AIGC Summer Research (Supervisor: Prof. Chi Zhang)
 - Goal: Replace a source object with a target object with large differences (in size/type...)while maintaining spatial–temporal consistency and scene realism.
-- Method: Late-step editing schedule with smoothed guidance to prevent background leakage and flicker.
+- Method: Late-step fixed noise schedule to prevent background leakage and flicker.
 
-- Outcomes: Stable shape/identity across frames and cleaner transitions in long sequences.
 - Links: [GitHub](https://github.com/CeciliaTheBirb/LargeEditVid)

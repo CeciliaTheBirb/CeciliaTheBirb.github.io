@@ -6,9 +6,8 @@ excerpt: |
 collection: portfolio
 ---
 
-- Context: Westlake University AIGC Summer Research (Supervisor: Prof. Chi Zhang)
-- Goal: Personalize and edit only the subject region while preserving scene background and context.
-- Method: Subject-mask guidance during LoRA updates; schedule smoothing for stable edits.
+- Westlake University AIGC Summer Research (Supervisor: Prof. Chi Zhang)
+- 1. Added subject mask guidance to LoRA-style fine tuning (SVDiff) using refined attention masks or YOLO+SAM masks to prevent background leakage
+- 2. Enabled simultaneous multi-concept extraction to reduce concept blending.
 
-- Outcomes: Stronger subject fidelity and reduced leakage into non-target regions.
 - Links: [GitHub](https://github.com/CeciliaTheBirb/attention_toys)

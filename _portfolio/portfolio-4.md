@@ -21,7 +21,7 @@ collection: portfolio
 weight: 999
 ---
 
-- Timeline: Mar – May 2025 (Individual Course Project for STATS 402 Interdisciplinary Data Analysis)
+- Individual Course Project for STATS 402 Interdisciplinary Data Analysis
 - Method: Spatio-temporal Transformer with kinematic GCN and personalized demographic embeddings (gender/weight/height).
-- Deliverables: 3 milestones, an 8-page final report, and a 90-minute poster presentation.
+
 - Links: [GitHub](https://github.com/CeciliaTheBirb/Motion2Muscle_TransGCN) 
