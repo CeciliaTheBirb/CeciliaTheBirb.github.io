@@ -1,6 +1,6 @@
 ---
 title: "Partial Physics-Informed Diffusion Model for Ocean Chlorophyll Reconstruction"
-authors: "Qianxun Xu; Zuchuan Li"
+authors: "<b>Qianxun Xu</b>; Zuchuan Li"
 collection: publications
 category: conferences
 permalink: /publication/2025-ppidm-neurips

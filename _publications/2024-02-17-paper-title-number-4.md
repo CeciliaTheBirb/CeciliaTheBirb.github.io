@@ -1,6 +1,6 @@
 ---
 title: "FENSe: Feedback-Enabled Neighbor Selection for Collaborative Perception"
-authors: "Qianxun Xu; Azzedine Boukerche; Peng Sun"
+authors: "<b>Qianxun Xu</b>; Azzedine Boukerche; Peng Sun"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-fense-icpads
