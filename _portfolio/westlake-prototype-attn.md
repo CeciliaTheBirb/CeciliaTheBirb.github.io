@@ -5,12 +5,12 @@ excerpt: |
     <tr style="text-align:center;">
       <th>Original Input</th>
       <th>Vanilla Flow Director</th>
-      <th>Fixed Late Noise</th>
+      <th>Fixed Late Noise (ours)</th>
     </tr>
     <tr style="text-align:center; vertical-align:top;">
       <td><img src="/images/wolf_ori.gif" alt="Original input" style="width:80%; max-width:420px; height:auto;"></td>
       <td><img src="/images/wolf_bad.gif" alt="Vanilla Flow Director" style="width:80%; max-width:420px; height:auto;"></td>
-      <td><img src="/images/wolf.gif" alt="Fixed Late Noise" style="width:80%; max-width:420px; height:auto;"></td>
+      <td><img src="/images/wolf.gif" alt="Fixed Late Noise (ours)" style="width:80%; max-width:420px; height:auto;"></td>
     </tr>
   </table>
 collection: portfolio
