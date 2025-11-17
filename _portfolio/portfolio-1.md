@@ -18,6 +18,7 @@ excerpt: |
 collection: portfolio
 ---
 
-- Timeline: August 2025 – Present, Westlake University (Supervisor: Prof. Chi Zhang)
+- Timeline: Aug – Nov 2025, Westlake University (Supervisor: Prof. Chi Zhang)
+- In submission
 
 
