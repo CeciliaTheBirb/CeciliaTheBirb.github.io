@@ -1,7 +1,7 @@
 ---
 title: "Temporal-Aware Training-Free Multi-Event Video Generation"
 excerpt: |
-  <p>In progress. </p>
+  <p>In submission. </p>
   <table style="width:100%; table-layout:fixed; border-spacing:12px;">
     <tr style="text-align:center;">
       <th colspan="2" style="font-weight:600;">Prompt: Look and extend arms (up → to the side → down)</th>
