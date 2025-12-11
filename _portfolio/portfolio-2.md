@@ -1,7 +1,7 @@
 ---
 title: "Partial Physics Informed Diffusion Model (PPIDM)"
 excerpt: |
-  <p>The underlying governing mechanism of complex real-world systems is often only partially known. We develop PPIDM to integrate partially known physics in ocean chlorophyll reconstruction to inform more physically plausible 
+  <p>The underlying governing mechanism of complex real-world systems is often only partially known. We develop PPIDM to integrate partially known physics in ocean chlorophyll concentration reconstruction to inform more physically plausible 
   learning of their dynamics.</p>
   <p><img src='/images/ppidm_arch.png' alt='Temporal-aware attention demo' style='width:60%;height:auto;'></p>
 

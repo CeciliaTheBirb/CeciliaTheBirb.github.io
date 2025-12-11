@@ -1,5 +1,5 @@
 ---
-title: "Partial Physics-Informed Diffusion Model for Ocean Chlorophyll Reconstruction"
+title: "Partial Physics-Informed Diffusion Model for Ocean Chlorophyll Concentration Reconstruction"
 authors: "<b>Qianxun Xu</b>; Zuchuan Li"
 collection: publications
 category: conferences
@@ -7,7 +7,7 @@ permalink: /publication/2025-ppidm-neurips
 excerpt: 
 date: 2025-06-08
 venue: "Accepted by Thirty-Ninth Conference on Neural Information Processing Systems (<b>NeurIPS</b>)"
-citation: "Xu, Q.; Li, Z. (2025). Partial Physics-Informed Diffusion Model for Ocean Chlorophyll Reconstruction. Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS)."
+citation: "Xu, Q.; Li, Z. (2025). Partial Physics-Informed Diffusion Model for Ocean Chlorophyll Concentration Reconstruction. Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS)."
 ---
 
 
