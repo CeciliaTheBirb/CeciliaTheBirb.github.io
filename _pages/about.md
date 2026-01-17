@@ -15,7 +15,11 @@ I love exploring various fields, with previous research experiences in physics-i
 
 Hobbies
 ======
-I like working out, so I like doing weight training, climbing, swimming, dancing, and badminton. I was a member of DKU’s varsity badminton team (women’s doubles) and competed in matches. I also play guitar. I am a fan of amusement parks 🎢.
+I enjoy working out and staying active through weight training, climbing, swimming, dancing, and badminton. I was a member of DKU varsity badminton and competed in matches. I also play guitar and love learning languages (intermediate German and elementary French).
+
+Awards
+======
+[Best Presentation Award in IEEE ICPADS 2025](/files/best_pre_in_session037000.pdf)
 
 Publications
 ======
