@@ -19,7 +19,7 @@ I enjoy working out and staying active through weight training, climbing, swimmi
 
 Awards
 ======
-[Best Presentation Award in IEEE ICPADS 2025](/files/best_pre_in_session037000.pdf)
+[Best Presentation Award in Session in IEEE ICPADS 2025](/files/best_pre_in_session037000.pdf)
 
 Publications
 ======
