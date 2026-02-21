@@ -1,5 +1,5 @@
 ---
-title: "Temporal-Aware Training-Free Multi-Event Video Generation"
+title: "SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls"
 excerpt: |
   <p>In submission. </p>
   <table style="width:100%; table-layout:fixed; border-spacing:12px;">
@@ -19,6 +19,6 @@ collection: portfolio
 ---
 
 - Timeline: Aug – Nov 2025, Westlake University (Supervisor: Prof. Chi Zhang)
-- In submission
+- Outcomes: CVPR 2026
 
 
