@@ -5,8 +5,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-fense-icpads
 excerpt: 
-date: 2025-02-17
-venue: "Accepted by Thirty-First International Conference on Parallel and Distributed Systems (<b>IEEE ICPADS</b>)"
+date: 2025-12-17
+venue: "Thirty-First International Conference on Parallel and Distributed Systems (<b>IEEE ICPADS</b>)"
 
 ---
 
