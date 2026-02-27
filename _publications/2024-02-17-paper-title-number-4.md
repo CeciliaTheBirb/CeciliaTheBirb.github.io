@@ -11,4 +11,4 @@ venue: "Thirty-First International Conference on Parallel and Distributed System
 ---
 
 
-[:page_facing_up: Paper PDF](/files/Feedback-Enabled%20Neighbor%20Selection%20for%20Spatial%20Aware%20Collaborative%20Perception.pdf)
+[📄 Paper PDF](/files/Feedback-Enabled%20Neighbor%20Selection%20for%20Spatial%20Aware%20Collaborative%20Perception.pdf)

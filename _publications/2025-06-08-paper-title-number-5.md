@@ -11,4 +11,4 @@ citation: "Xu, Q.; Li, Z. (2025). Partial Physics-Informed Diffusion Model for O
 ---
 
 
-[:page_facing_up: Paper PDF](/files/Partial_Physics_Informed_Diffusion_Model_for_ocean_chl-5.pdf)
+[📄 Paper PDF](/files/Partial_Physics_Informed_Diffusion_Model_for_ocean_chl-5.pdf)

@@ -10,5 +10,5 @@ venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR<
 citation: "Xu, Q.; Song, C.; Cai, Y.; Zhang, C. (2026). SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)."
 ---
 
-[Project page](https://switchcraft-project.github.io)
+[🔗 Project page](https://switchcraft-project.github.io)
 
