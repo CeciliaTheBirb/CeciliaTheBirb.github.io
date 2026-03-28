@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Math and Computer Science student at Duke Kunshan University (DKU), and I will be joining UCLA to pursue an M.S. in Computer Science starting in Fall 2026.
+Hi! I am a Computer Science undergraduate student at Duke Kunshan University (DKU), and I will be joining UCLA to pursue an M.S. in Computer Science starting in Fall 2026.
 
 Research Interests
 ======
