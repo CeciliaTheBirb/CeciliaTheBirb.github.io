@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Computer Science undergraduate student at Duke Kunshan University (DKU), and I will be joining UCLA to pursue an M.S. in Computer Science starting in Fall 2026.
+Hi! I’m a master’s student in Computer Science at UCLA. I completed my undergraduate studies at Duke Kunshan University and Duke University.
 
 Research Interests
 ======
-My core passion lies in computer vision. I enjoy exploring diverse intersections within the field, and my previous research experience spans physics-informed diffusion models for environmental science, collaborative perception for autonomous driving, and controllable image and video generation. See more on my [Research](/portfolio/) page.
+My research interests lie broadly in computer vision and generative models, with a particular focus on visual world models and controllable video generation. I am interested in building generative systems that can model complex visual environments and support coherent and controllable generation.
+
+During my research internship at StepFun, I worked on ConsistWorld, a multi-agent world model for generating consistent views of a shared environment across viewpoints and over time.
+
+My previous research spans training-free control of multi-event video generation (SwitchCraft), collaborative perception for autonomous driving, and physics-informed diffusion models for environmental science. See more on my [Research](/portfolio/) page.
 
 Hobbies
 ======
