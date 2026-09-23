@@ -3,17 +3,9 @@ title: "ConsistWorld: Evidence Routing for Consistent Multi-Agent World Models"
 excerpt: |
   <p>A causal multi-agent world model that routes historical and peer evidence to maintain consistent video streams across agents and over long time horizons.</p>
   <table style="width:100%; table-layout:fixed; border-spacing:12px;">
-    <tr style="text-align:center;">
-      <th style="font-weight:600;">Multi-Agent Generation Example 1</th>
-    </tr>
-    <tr style="text-align:center;">
-      <td><img src="/images/consistworldexample1.gif" alt="ConsistWorld multi-agent generation example 1" style="width:100%; max-width:832px; height:auto;"></td>
-    </tr>
-    <tr style="text-align:center;">
-      <th style="font-weight:600;">Multi-Agent Generation Example 2</th>
-    </tr>
-    <tr style="text-align:center;">
-      <td><img src="/images/consistworldexample2.gif" alt="ConsistWorld multi-agent generation example 2" style="width:100%; max-width:832px; height:auto;"></td>
+    <tr style="text-align:center; vertical-align:top;">
+      <td><img src="/images/consistworldexample1.gif" alt="ConsistWorld multi-agent generation example 1" style="width:100%; height:auto;"></td>
+      <td><img src="/images/consistworldexample2.gif" alt="ConsistWorld multi-agent generation example 2" style="width:100%; height:auto;"></td>
     </tr>
   </table>
 collection: portfolio
