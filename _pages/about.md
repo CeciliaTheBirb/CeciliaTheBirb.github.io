@@ -15,9 +15,7 @@ My research interests lie broadly in computer vision and generative models, with
 
 My previous research spans multi-agent world model, multi-event video generation, collaborative perception for autonomous driving, and physics-informed diffusion models for environmental science. See more on my [Research](/portfolio/) page.
 
-Hobbies
-======
-Outside of my academic work, I love staying active through weight training, rock climbing, swimming, and dancing. I was a member of DKU varsity badminton and competed in matches. I also play guitar and am currently an intermediate German learner.
+
 
 Internship
 ======
