@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a master’s student in Computer Science at UCLA. I completed my undergraduate studies at Duke Kunshan University and Duke University.
+Hi! I'm Cecilia. I am currently pursuing my Master's degree in Computer Science at UCLA, where I'm conducting research on world models for robotics at VAIL Lab under the supervision of Professor Bolei Zhou. I previously earned my Bachelor's degree in Computer Science from Duke Kunshan University and Duke University.
 
 Research Interests
 ======
